@@ -1,6 +1,6 @@
 # klystrack-theme-kit
 
-This is a template for creating new themes for [klystrack](http://kometbomb.github.io/klystrack/).
+This is a template for creating new themes for [klystrack](http://kometbomb.github.io/klystrack/). Read this [wiki page](https://github.com/kometbomb/klystrack/wiki/Themes) for more info how the resources work.
 
 ## How to use
 
