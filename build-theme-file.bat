@@ -12,6 +12,7 @@ copy /y Template\bevel.* temp
 copy /y Template\vu.* temp
 copy /y Template\analyzor.* temp
 copy /y Template\logo.* temp
+copy /y Template\cursor.* temp
 echo Bundling everything together...
 bin\makebundle.exe MyNewTheme temp
 echo ---
