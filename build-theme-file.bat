@@ -15,7 +15,7 @@ copy /y Template\logo.* temp
 copy /y Template\cursor.* temp
 echo Bundling everything together...
 bin\makebundle.exe MyNewTheme temp
-echo 'Cleaning up temporary files...'
+echo Cleaning up temporary files...
 rmdir /S /q temp
 echo ---
 echo Your new theme is now packed in the file called "MyNewTheme"!
